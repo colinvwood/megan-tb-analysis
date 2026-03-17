@@ -1,0 +1,4 @@
+asap-analysis-data
+*.docx
+.ipynb_checkpoints/
+.DS_Store/
